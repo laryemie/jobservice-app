@@ -21,3 +21,5 @@ api.interceptors.request.use(
 );
 
 export default api;
+
+const API_URL = 'https://jobservice-backend.onrender.com/api'; // Replace with your Render URL
